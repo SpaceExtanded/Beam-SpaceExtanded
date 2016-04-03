@@ -1,2 +1,1 @@
-# [Beam-SpaceExtanded]
-(https://userstyles.org/styles/126158/beam-spacextended)
+# [Beam-SpaceExtanded](https://userstyles.org/styles/126158/beam-spacextended)
